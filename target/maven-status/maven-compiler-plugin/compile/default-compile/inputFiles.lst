@@ -1,0 +1,15 @@
+/home/andrea/Fiverr/ems/employee-management-webapp/src/main/java/employee/management/springboot/EmployeeManagementWebappApplication.java
+/home/andrea/Fiverr/ems/employee-management-webapp/src/main/java/employee/management/springboot/config/SecurityConfiguration.java
+/home/andrea/Fiverr/ems/employee-management-webapp/src/main/java/employee/management/springboot/controller/EmployeeController.java
+/home/andrea/Fiverr/ems/employee-management-webapp/src/main/java/employee/management/springboot/service/EmployeeServiceImpl.java
+/home/andrea/Fiverr/ems/employee-management-webapp/src/main/java/employee/management/springboot/service/UserServiceImpl.java
+/home/andrea/Fiverr/ems/employee-management-webapp/src/main/java/employee/management/springboot/model/User.java
+/home/andrea/Fiverr/ems/employee-management-webapp/src/main/java/employee/management/springboot/model/Employee.java
+/home/andrea/Fiverr/ems/employee-management-webapp/src/main/java/employee/management/springboot/controller/MainController.java
+/home/andrea/Fiverr/ems/employee-management-webapp/src/main/java/employee/management/springboot/service/EmployeeService.java
+/home/andrea/Fiverr/ems/employee-management-webapp/src/main/java/employee/management/springboot/repository/EmployeeRepository.java
+/home/andrea/Fiverr/ems/employee-management-webapp/src/main/java/employee/management/springboot/model/Role.java
+/home/andrea/Fiverr/ems/employee-management-webapp/src/main/java/employee/management/springboot/repository/UserRepository.java
+/home/andrea/Fiverr/ems/employee-management-webapp/src/main/java/employee/management/springboot/controller/UserRegistrationController.java
+/home/andrea/Fiverr/ems/employee-management-webapp/src/main/java/employee/management/springboot/dto/UserRegistrationDto.java
+/home/andrea/Fiverr/ems/employee-management-webapp/src/main/java/employee/management/springboot/service/UserService.java
